@@ -2,7 +2,7 @@ import React from 'react'
 import { Outlet } from 'react-router'
 import Sidebar from '../components/sidebar/Sidebar'
 import Topnav from '../components/topnav/Topnav'
-// import './main-layout.scss'
+import './main-layout.scss'
 
 const MainLayout = () => {
   return (
